@@ -8,8 +8,7 @@ optimization of the vector sunflower interpolation of Bucić, He and Lee
 
 > Cite as: JIANG ZHICHENG, *Sunflower Detectors: MDS Classification, Layered
 > Optimization, and the Limits of Envelope Counting*, 2026.
-> DOI: [10.5281/zenodo.24373110](https://doi.org/10.5281/zenodo.24373110)
-> (reserved 2026-11-19; activates on publication).
+> DOI: [10.5281/zenodo.24373110](https://doi.org/10.5281/zenodo.24373110).
 > arXiv: forthcoming (endorsement pending).
 
 ## Results
